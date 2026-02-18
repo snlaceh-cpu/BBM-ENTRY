@@ -181,10 +181,7 @@
 <body>
 
 <div class="container">
-    <div class="logo-branding">
-    <img src="![Image]https://github.com/user-attachments/assets/f16c6b14-7ec1-4fb2-b2c3-a431cdde74c9" alt="LOGO">
-</div>
-
+    
     <div class="header">
         <h2><i class="fas fa-gas-pump"></i> FuelCalc Pro</h2>
         <button id="themeToggle" class="theme-btn"><i id="themeIcon" class="fas fa-moon"></i></button>
