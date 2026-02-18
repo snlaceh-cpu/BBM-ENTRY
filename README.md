@@ -182,7 +182,7 @@
 
 <div class="container">
     <div class="logo-branding">
-    <img src="http//github.com/snlaceh-cpu/BBM-ENTRY/blob/main/LOGO.jpeg" alt="LOGO">
+    <img src="https://github.dev/snlaceh-cpu/BBM-ENTRY/blob/main/LOGO.jpeg" alt="LOGO">
 </div>
 
     <div class="header">
