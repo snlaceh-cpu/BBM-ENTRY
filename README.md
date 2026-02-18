@@ -181,7 +181,8 @@
 <body>
 
 <div class="container">
-    
+   
+
     <div class="header">
         <h2><i class="fas fa-gas-pump"></i> FuelCalc Pro</h2>
         <button id="themeToggle" class="theme-btn"><i id="themeIcon" class="fas fa-moon"></i></button>
