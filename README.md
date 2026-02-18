@@ -1,4 +1,4 @@
-![alt text](?https://github.com/snlaceh-cpu/BBM-ENTRY/blob/main/LOGO.jpeg raw=true)
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
